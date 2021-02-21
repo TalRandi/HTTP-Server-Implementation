@@ -7,7 +7,7 @@ server.c 	   :	 This c file implements the server communication with multiple cl
 			 from the client and returns a appropriate response.
 threadpool.c       :     This file implements the header threadpool file. it let's the server the ability to serve multiple requests,
 			 from multiple clients. 
-README 		   :	 This file
+
 
 Remarks: 
 
