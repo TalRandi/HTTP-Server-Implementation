@@ -1,8 +1,4 @@
 
-Login name: talrn
-
-Name & ID: Tal Randi - 315633503
-
 Exercise Name: EX3 – HTTP Server
 
 Files:
